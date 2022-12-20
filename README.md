@@ -12,8 +12,8 @@ Part of the [Road to Metaverse, Live Learn Series](https://learn.unity.com/proje
 - Assets from the [Starter Assets - First Person Character Controller](https://assetstore.unity.com/packages/essentials/starter-assets-first-person-character-controller-196525) project
 - Assets from the [Cinematic Studio Sample](https://assetstore.unity.com/packages/templates/tutorials/cinematic-studio-sample-192852) project
 
-![Dino](https://i.imgur.com/430wqc8.gif)
+![Chickens](https://i.imgur.com/430wqc8.gif)
 
-![Dino](https://i.imgur.com/yHqi4L2.gif)
+![Bubbles](https://i.imgur.com/yHqi4L2.gif)
 
 Need more info, or have some questions? Head over to our [forums](https://forum.unity.com/threads/learn-live-intro-to-vr.1293315/).
